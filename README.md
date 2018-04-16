@@ -2,7 +2,7 @@
 It is just a Tkinter interface to put a square image (in 1-D array) on the center of a HEALPix map.
 
 # How to use
-- Still need to install `python(3+)`, `healpy`, `numpy`, and `matplotlib` _(because right now I was unable to make a app. `py2app` and `pysintaller` have some difficultes to package `astropy` and `matplotlib`)_
+- Still need to install `python(3+)`, `healpy`, `numpy`, and `matplotlib` (because right now I was unable to make a app. Both `py2app` and `pysintaller` have some difficultes to package `astropy` and `matplotlib`.)
 - In command line,
 ```bash
 $ python Tkinter_healpy.py
